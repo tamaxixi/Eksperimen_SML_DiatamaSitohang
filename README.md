@@ -1,0 +1,2 @@
+# Eksperimen_SML_DiatamaSitohang
+Repositori Submission SML
